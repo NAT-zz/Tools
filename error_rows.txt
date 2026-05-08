@@ -1,0 +1,40 @@
+2026-05-08T10:12:57.020Z | SoMay/Acc: ngocthang357.fb.nan | Lỗi: Không có thông tin đặt cọc cũ !
+×
+2026-05-08T10:14:30.078Z | SoMay/Acc: ngocthang357.fb.nan | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20273ms
+2026-05-08T10:18:29.245Z | SoMay/Acc: ngocthang357.fb.nan | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20043ms
+2026-05-08T10:18:50.146Z | SoMay/Acc: NAN_VANTHUOC22 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20015ms
+2026-05-08T10:19:10.996Z | SoMay/Acc: NAN_VANTHUOC22 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20014ms
+2026-05-08T10:19:31.865Z | SoMay/Acc: hccbna.fb.nan | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20031ms
+2026-05-08T10:19:52.760Z | SoMay/Acc: hccbna.fb.nan | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20058ms
+2026-05-08T10:20:13.658Z | SoMay/Acc: NAN_THANHTAM68 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20055ms
+2026-05-08T10:20:34.537Z | SoMay/Acc: nan_1029867 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20039ms
+2026-05-08T10:20:55.396Z | SoMay/Acc: NAN.TV1.9887522722 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20012ms
+2026-05-08T10:21:16.270Z | SoMay/Acc: nan_1010569 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20033ms
+2026-05-08T10:21:37.179Z | SoMay/Acc: nan_dacam1 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20063ms
+2026-05-08T10:21:58.025Z | SoMay/Acc: bongsen.fb.nan | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20008ms
+2026-05-08T10:22:18.934Z | SoMay/Acc: NANMY.CTY1 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20058ms
+2026-05-08T10:22:39.850Z | SoMay/Acc: trxuanphuc.fb.nan | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20064ms
+2026-05-08T10:23:00.734Z | SoMay/Acc: NAN_THIHAOTV2 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20017ms
+2026-05-08T10:23:21.639Z | SoMay/Acc: nghean95.fb.nan | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20015ms
+2026-05-08T10:23:42.545Z | SoMay/Acc: NAN_NGHEAN688 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20054ms
+2026-05-08T10:24:03.427Z | SoMay/Acc: NAN_NGHEAN688 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20042ms
+2026-05-08T10:24:24.268Z | SoMay/Acc: nan_1013191 | Lỗi: Waiting for element to be located By(css selector, .popup-body.control-ngt)
+Wait timed out after 20005ms
