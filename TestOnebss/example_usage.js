@@ -158,6 +158,8 @@ async function main() {
                 if (rowCount8 === 0) {
                     const elapsed = ((Date.now() - soMayStart) / 1000).toFixed(1);
                     console.log(`[8] Không có đặt cọc cho ${soMay} — bỏ qua. (${elapsed}s)`);
+                    await browser.driver.navigate().refresh();
+                    await browser.sleep(2000);
                     continue;
                 }
 
@@ -215,6 +217,8 @@ async function main() {
                     if (ghiLaiErr) {
                         console.error(`[Row 1] B: LỖI Ghi lại → "${ghiLaiErr}"`);
                         logErrorRow(soMay, ghiLaiErr);
+                        await browser.driver.navigate().refresh();
+                        await browser.sleep(2000);
                         continue;
                     }
 
@@ -433,7 +437,7 @@ async function main() {
                         }
                         return true;
                     }, 15_000, "Timeout chờ form Thanh toán đóng");
-                    await browser.sleep(200);
+                    await browser.sleep(2000);
                     console.log(`[Row 1] H2: Form Thanh toán đã đóng, về trang Hủy đặt cọc.`);
 
                     // I: Click "Hoàn thiện" trong toolbar ul.list của trang chính
@@ -446,7 +450,7 @@ async function main() {
                         10_000
                     );
                     await browser.driver.executeScript("arguments[0].click();", hoanThienBtn);
-                    await browser.sleep(800);
+                    await browser.sleep(3000);
                     console.log(`[Row 1] I: Đã click Hoàn thiện.`);
 
                     // J: Xác nhận dialog "Thông báo" sau Hoàn thiện → click "Đồng ý" / btn-primary
@@ -465,10 +469,16 @@ async function main() {
                     }, 15_000, "Timeout chờ dialog Thông báo sau Hoàn thiện");
                     await browser.sleep(600);
                     console.log(`[Row 1] J: Đã click Đồng ý. ✓ Hoàn thành hàng 1.`);
+                    await browser.driver.navigate().refresh();
+                    await browser.sleep(2000);
+                    console.log(`[Row 1] J: Đã F5 refresh trang.`);
 
                 } catch (rowErr) {
                     console.error(`[Row 1] LỖI:`, rowErr.message);
                     logErrorRow(soMay, rowErr.message);
+                    await browser.driver.navigate().refresh();
+                    await browser.sleep(2000);
+                    console.log(`[Row 1] LỖI: Đã F5 refresh trang.`);
                 }
 
                 const elapsed = ((Date.now() - soMayStart) / 1000).toFixed(1);
@@ -479,6 +489,8 @@ async function main() {
                 const elapsed = ((Date.now() - soMayStart) / 1000).toFixed(1);
                 console.error(`[SOMAY LỖI] ${soMay}: ${soMayErr.message} (${elapsed}s)`);
                 logErrorRow(soMay, soMayErr.message);
+                await browser.driver.navigate().refresh();
+                await browser.sleep(2000);
             }
         } // end for soMayList
 
