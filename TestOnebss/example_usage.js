@@ -21,6 +21,23 @@ function logErrorRow(soMayAcc, reason) {
     console.error(`[ERROR_LOG] ${line.trim()}`);
 }
 
+/**
+ * Kiểm tra session còn hạn không.
+ * Nếu URL về trang login → tự động điền username/password và chờ người dùng nhập OTP.
+ */
+async function ensureLoggedIn(browser) {
+    const url = await browser.currentUrl();
+    if (url.includes("/auth/login")) {
+        console.log("[SESSION] Phát hiện hết session → đăng nhập lại...");
+        await browser.loginManual({
+            url: CONFIG.url,
+            username: CONFIG.username,
+            password: CONFIG.password,
+        });
+        console.log("[SESSION] Đăng nhập lại thành công:", await browser.currentUrl());
+    }
+}
+
 /* ================================================================
    CẤU HÌNH
    ================================================================ */
@@ -66,6 +83,9 @@ async function main() {
             console.log(`\n[SOMAY] ════ Xử lý: ${soMay} ════`);
             const soMayStart = Date.now();
             try {
+
+                // Kiểm tra session trước mỗi lần xử lý (F5 có thể về trang login)
+                await ensureLoggedIn(browser);
 
                 // ── Bước 2: Vào trang Hủy đặt cọc ────────────────────────────────
                 await browser.goto(CONFIG.targetUrl);
@@ -450,7 +470,7 @@ async function main() {
                         10_000
                     );
                     await browser.driver.executeScript("arguments[0].click();", hoanThienBtn);
-                    await browser.sleep(3000);
+                    await browser.sleep(7000);
                     console.log(`[Row 1] I: Đã click Hoàn thiện.`);
 
                     // J: Xác nhận dialog "Thông báo" sau Hoàn thiện → click "Đồng ý" / btn-primary
