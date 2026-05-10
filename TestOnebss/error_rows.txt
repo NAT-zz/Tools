@@ -274,4 +274,701 @@ Wait timed out after 15217ms
 oMay/Acc: hoan63.fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
 Wait timed out after 15070ms
 oMay/Acc: vandat94.fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
-Wait timed out after 15052ms
+Wait timed out after 15052msoMay/Acc: NAN_PHANHOAIAPP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15181ms
+oMay/Acc: thiduyentdp3.fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15127ms
+oMay/Acc: NAN_DUYENTDP3.APP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15187ms
+oMay/Acc: thitam2001fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15105ms
+oMay/Acc: NAN_VANHA74MTV | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15151ms
+oMay/Acc: xthang74.fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15046ms
+oMay/Acc: NAN_VANMANH77MTV | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15019ms
+oMay/Acc: tinhxm.fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15194ms
+oMay/Acc: NAN_VANHUNGKS | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15026ms
+oMay/Acc: NAN_HUNGTUNG.APP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15139ms
+oMay/Acc: ubvinhson.fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15028ms
+oMay/Acc: NAN_UBVS.APP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15220ms
+oMay/Acc: vankhanh073.fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15131ms
+oMay/Acc: tranque57.fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15118ms
+oMay/Acc: NAN_THIQUE57AP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15147ms
+oMay/Acc: vanthach83.fb.nan | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20210ms
+oMay/Acc: NAN_VANTHACH80AP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15185ms
+oMay/Acc: NANTV2LYQT | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15200ms
+oMay/Acc: NANTVTHINH2 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15001ms
+oMay/Acc: NANTV3HUNGTD | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NANTVDIU | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15127ms
+oMay/Acc: NANTVHOHUYBT | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20179ms
+oMay/Acc: NANTVQUYNHKR | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: vannguyenlb_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15141ms
+oMay/Acc: lebahoitx_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15066ms
+oMay/Acc: vantuyenkm_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15167ms
+oMay/Acc: thuyck_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15009ms
+oMay/Acc: NANTVHAIBM | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15145ms
+oMay/Acc: NANTVLAMTB | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15017ms
+oMay/Acc: NANTVNGOCTN | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15107ms
+oMay/Acc: NANTVHOAIK1_CO | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15031ms
+oMay/Acc: NANTVCUCTK | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15063ms
+oMay/Acc: thicuctk_co | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NANVANPHUTT | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15095ms
+oMay/Acc: NANTVKHANHHL | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15197ms
+oMay/Acc: vankhai12_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15067ms
+oMay/Acc: thikylt_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15024ms
+oMay/Acc: vannguyenk3_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15003ms
+oMay/Acc: NANTVVANBANH | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15027ms
+oMay/Acc: xuanloik4_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15113ms
+oMay/Acc: vanbank2_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15164ms
+oMay/Acc: NANTVNGANLX | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: thithubt_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15136ms
+oMay/Acc: vankhaibt_co | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NANTVSYBDCK | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15103ms
+oMay/Acc: vanxuoihm_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15099ms
+oMay/Acc: minhdungk4tt_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15209ms
+oMay/Acc: NANTVSAMTH | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: thingahnld_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15013ms
+oMay/Acc: NANTVTHITRANGCD | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15063ms
+oMay/Acc: NANTVTYBN | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15162ms
+oMay/Acc: vanmaobm_co | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15191ms
+oMay/Acc: dc_3672224 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15207ms
+oMay/Acc: NAN.DC.6508917 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15216ms
+oMay/Acc: NAN.DC.9163568 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15030ms
+oMay/Acc: NAN.DC.9065708 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15179ms
+oMay/Acc: NAN.DC.3164123 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15065ms
+oMay/Acc: NAN.DC.1603286 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15178ms
+oMay/Acc: dc_1777151 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15239ms
+oMay/Acc: NAN.DC.1629364 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15145ms
+oMay/Acc: NAN.DC.1629391 | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20278ms
+oMay/Acc: NAN.DC.3070719 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15226ms
+oMay/Acc: NAN.DC.1602801 | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20061ms
+oMay/Acc: NAN.DC.1602831 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15047ms
+oMay/Acc: NAN.DC.1867895 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15089ms
+oMay/Acc: dc_5093717 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15030ms
+oMay/Acc: dc_1602924 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15136ms
+oMay/Acc: NAN.DC.1673748 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15084ms
+oMay/Acc: NAN.DC.1600328.2 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15045ms
+oMay/Acc: NAN.DC.5147912 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15134ms
+oMay/Acc: NAN.DC.6593829_2 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15020ms
+oMay/Acc: NAN.DC.8824471 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15024ms
+oMay/Acc: NAN.DC.5737139 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15189ms
+oMay/Acc: NAN.DC.8795485 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15132ms
+oMay/Acc: NAN.DC.9901551 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15017ms
+oMay/Acc: NAN.DC.4957057 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15165ms
+oMay/Acc: dc_6463393 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15097ms
+oMay/Acc: dc_5146435 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15168ms
+oMay/Acc: NAN.DC.73871337 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15090ms
+oMay/Acc: NAN.DC.73871337 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.4003719 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15121ms
+oMay/Acc: NAN.DC.2123748 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15157ms
+oMay/Acc: NAN.DC.7578730 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15068ms
+oMay/Acc: NAN.DC.1679301 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15213ms
+oMay/Acc: NAN.DC.4945626 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15055ms
+oMay/Acc: NAN.DC.6849569 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15051ms
+oMay/Acc: NAN.DC.6755327 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15014ms
+oMay/Acc: NAN.DC.9268699 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15162ms
+oMay/Acc: NAN.DC.3450794 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15085ms
+oMay/Acc: dc_3006823 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15088ms
+oMay/Acc: dc_7409997 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15149ms
+oMay/Acc: dc_4855085 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15099ms
+oMay/Acc: dc_5425553 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15125ms
+oMay/Acc: dc_4402830 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15202ms
+oMay/Acc: dc_1091825 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15129ms
+oMay/Acc: NAN.DC.4578556 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15080ms
+oMay/Acc: dc_8626850 | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20001ms
+oMay/Acc: NAN.DC.9057416 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15045ms
+oMay/Acc: NAN.DC.9144678 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15023ms
+oMay/Acc: NAN.DC.5382298 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15093ms
+oMay/Acc: NAN.DC.9792115 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15128ms
+oMay/Acc: NAN.DC.9410376 | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20127ms
+oMay/Acc: dc_6200127 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15041ms
+oMay/Acc: NAN.DC.1169517 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.2806801 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15057ms
+oMay/Acc: dc_2705303 | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20281ms
+oMay/Acc: NAN.DC.7003418 | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20087ms
+oMay/Acc: NAN.DC.3602586 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15124ms
+oMay/Acc: dc_5944348 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15220ms
+oMay/Acc: NAN.DC.6391837 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15081ms
+oMay/Acc: NAN.DC.77922676 | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20084ms
+oMay/Acc: NAN.DC.77922676 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120066ms
+oMay/Acc: NAN.DC.77922676 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15094ms
+oMay/Acc: NAN.DC.5611361 | Lỗi: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=147.0.3912.98)
+oMay/Acc: NAN.DC.3540827 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15118ms
+oMay/Acc: dc_9340600 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15089ms
+oMay/Acc: NAN.DC.9829687_2 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15089ms
+oMay/Acc: dc_7838345 | Lỗi: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=147.0.3912.98)
+oMay/Acc: NAN.DC.8892605 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15002ms
+oMay/Acc: NAN.DC.CONGDINH1 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15059ms
+oMay/Acc: NAN.DC.8672722 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15113ms
+oMay/Acc: NAN.DC.4903468 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15104ms
+oMay/Acc: dc_67393266 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15041ms
+oMay/Acc: dc_5052705 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15015ms
+oMay/Acc: NAN.DC.2125310 | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20251ms
+oMay/Acc: dc_7592007 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15094ms
+oMay/Acc: NAN.DC.4974997 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15127ms
+oMay/Acc: NAN.DC.6025679 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15019ms
+oMay/Acc: NAN.DC.6025679 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_79492472 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15040ms
+oMay/Acc: NAN.DC.5255255 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15153ms
+oMay/Acc: NAN.DC.4551137 | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20067ms
+oMay/Acc: NAN.DC.9345325 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15139ms
+oMay/Acc: dc_3600002 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15216ms
+oMay/Acc: dc_5415048 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15154ms
+oMay/Acc: NAN.DC.5415048 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15036ms
+oMay/Acc: NAN.DC.4352580 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15059ms
+oMay/Acc: NAN.DC.4352580 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_5040357 | Lỗi: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=147.0.3912.98)
+oMay/Acc: NAN.DC.8368456 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.7968082 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15031ms
+oMay/Acc: NAN.DC.3208523 | Lỗi: [Select2] Không tìm thấy option: "Băng rộng cố định"
+oMay/Acc: NAN.DC.8763657 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15035ms
+oMay/Acc: dc_5678456 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15131ms
+oMay/Acc: dc_5678456 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_88252779 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15077ms
+oMay/Acc: dc_8087118 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15059ms
+oMay/Acc: dc_3914545 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15189ms
+oMay/Acc: NAN.DC.4740965 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15113ms
+oMay/Acc: NAN.DC.9021003 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15169ms
+oMay/Acc: dc_3810476 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15127ms
+oMay/Acc: dc_2677891 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15047ms
+oMay/Acc: NAN.DC.8014567 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.9632980 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15088ms
+oMay/Acc: NAN.DC.62550449 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15205ms
+oMay/Acc: dc_6740228 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15082ms
+oMay/Acc: NAN.DC.3939330 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15120ms
+oMay/Acc: NAN.DC.3939330 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.9698569 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15018ms
+oMay/Acc: NAN.DC.7909973 | Lỗi: [Select2] Không tìm thấy option: "Băng rộng cố định"
+oMay/Acc: dc_3454792 | Lỗi: [Select2] Không tìm thấy option: "Băng rộng cố định"
+oMay/Acc: NAN.DC.3454792 | Lỗi: [Select2] Không tìm thấy option: "Băng rộng cố định"
+oMay/Acc: dc_6884867 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15119ms
+oMay/Acc: NAN.DC.78242580 | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20101ms
+oMay/Acc: NAN.DC.9158709 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15162ms
+oMay/Acc: dc_8002187 | Lỗi: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=147.0.3912.98)
+oMay/Acc: dc_3933564 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15087ms
+oMay/Acc: dc_3933564 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120201ms
+oMay/Acc: NAN.DC.3933564 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120193ms
+oMay/Acc: dc_4304575 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120227ms
+oMay/Acc: dc_4304575 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120187ms
+oMay/Acc: NAN.DC.4304575 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120047ms
+oMay/Acc: dc_8738937 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120125ms
+oMay/Acc: dc_7079765 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120212ms
+oMay/Acc: dc_7079765 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120173ms
+oMay/Acc: NAN.DC.7079765 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120117ms
+oMay/Acc: dc_2475886 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120023ms
+oMay/Acc: NAN.DC.2475886 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120066ms
+oMay/Acc: NAN.DC.8395412 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120113ms
+oMay/Acc: dc_8395412 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120110ms
+oMay/Acc: dc_8395412 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120210ms
+oMay/Acc: NAN.DC.9193186 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120116ms
+oMay/Acc: NAN.DC.7399532 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120204ms
+oMay/Acc: dc_7885859 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120210ms
+oMay/Acc: dc_7885859 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120004ms
+oMay/Acc: NAN.DC.885879 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120073ms
+oMay/Acc: NAN.DC.885879 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120228ms
+oMay/Acc: NAN.DC.9250355 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120197ms
+oMay/Acc: dc_5961123 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120225ms
+oMay/Acc: NAN.DC.3089757 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120151ms
+oMay/Acc: NAN.DC.2006567 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120070ms
+oMay/Acc: NAN.DC.2006567 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120180ms
+oMay/Acc: NAN.DC.2006567 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120020ms
+oMay/Acc: NAN.DC.6713789 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120171ms
+oMay/Acc: NAN.DC.1732946 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120091ms
+oMay/Acc: NAN.DC.1732946 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120147ms
+oMay/Acc: dc_3815732 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120148ms
+oMay/Acc: NAN.DC.6468003 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120183ms
+oMay/Acc: NAN.DC.6468003 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120043ms
+oMay/Acc: NAN_DC_5794612 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120105ms
+oMay/Acc: dc_6082216 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120161ms
+oMay/Acc: NAN.DC.75996738 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120072ms
+oMay/Acc: ncong89_yt | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120107ms
+oMay/Acc: ncong89_yt | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120086ms
+oMay/Acc: NANTV_NVCONG89 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120212ms
+oMay/Acc: NAN.DC.76976292 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120165ms
+oMay/Acc: NAN.DC.76976292 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120058ms
+oMay/Acc: NAN.DC.3222723 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120035ms
+oMay/Acc: dc_3222723 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120054ms
+oMay/Acc: dc_3222723 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120180ms
+oMay/Acc: NAN.DC.682618 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120139ms
+oMay/Acc: NAN.DC.4800009 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120224ms
+oMay/Acc: dc_4800009 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120001ms
+oMay/Acc: NAN.DC.2151451 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120125ms
+oMay/Acc: NAN.DC.2151451 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120138ms
+oMay/Acc: dc_8494123 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120221ms
+oMay/Acc: dc_8494123 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120217ms
+oMay/Acc: NAN.DC.8494123 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120105ms
+oMay/Acc: NAN.DC.8494123 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120117ms
+oMay/Acc: NAN.DC.9337521 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120206ms
+oMay/Acc: dc_8372829 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120214ms
+oMay/Acc: NAN.DC.8372829 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120085ms
+oMay/Acc: dc_9168009 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120180ms
+oMay/Acc: NAN_DC_9168009 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120157ms
+oMay/Acc: dc_4234389 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120069ms
+oMay/Acc: NAN.DC.4234389 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120047ms
+oMay/Acc: NAN.DC.6555253 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120112ms
+oMay/Acc: NAN.DC.6555253 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120193ms
+oMay/Acc: dc_7625670 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120077ms
+oMay/Acc: dc_7625670 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120160ms
+oMay/Acc: NAN.DC.7625670 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120133ms
+oMay/Acc: NAN.DC.7356656 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120146ms
+oMay/Acc: NAN.DC.8848028 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120001ms
+oMay/Acc: NAN_0389472122 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120049ms
+oMay/Acc: NAN.DC.4625114 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120213ms
+oMay/Acc: NAN.DC.8052972 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120061ms
+oMay/Acc: NAN.DC.5731079 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120064ms
+oMay/Acc: dc_82391272 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120018ms
+oMay/Acc: dc_82391272 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120073ms
+oMay/Acc: NAN.DC.82391272 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120135ms
+oMay/Acc: dc_8086965 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120089ms
+oMay/Acc: dc_8086965 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120184ms
+oMay/Acc: NAN.DC.5670038 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120221ms
+oMay/Acc: NAN.DC.5670038 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120092ms
+oMay/Acc: NAN.DC.3687281 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120118ms
+oMay/Acc: NAN.DC.6158752 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120128ms
+oMay/Acc: NAN.DC.2215255 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120138ms
+oMay/Acc: NAN.DC.2215255 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120175ms
+oMay/Acc: NAN.DC.92911779 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120153ms
+oMay/Acc: NAN.DC.6490864 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120202ms
+oMay/Acc: dc_9685747 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120065ms
+oMay/Acc: NAN.DC.9685747 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120088ms
+oMay/Acc: NAN.DC.6067076 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120029ms
+oMay/Acc: NAN.DC.5748386 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120169ms
+oMay/Acc: dc_5848360 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120132ms
+oMay/Acc: NAN.DC.5848360 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120190ms
+oMay/Acc: dc_5299821 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120102ms
+oMay/Acc: dc_7536346 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120171ms
+oMay/Acc: dc_7536346 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120025ms
+oMay/Acc: NAN.DC.7536346 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120169ms
+oMay/Acc: NAN.DC.7536346 | Lỗi: Timeout 120s: Chưa hoàn thành xác thực OTP.
+Wait timed out after 120014ms
+oMay/Acc: NAN.DC.5393399 | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20048ms
+oMay/Acc: dc_4555282 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15085ms
+oMay/Acc: NAN.DC.2749121 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15148ms
+oMay/Acc: NAN.DC.5973821 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15186ms
+oMay/Acc: NAN.DC.5973821 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15195ms
+oMay/Acc: NAN.DC.8538037 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15192ms
+oMay/Acc: dc_8538037 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15094ms
+oMay/Acc: dc_1363507 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15042ms
+oMay/Acc: dc_8424542 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15092ms
+oMay/Acc: NAN.DC.4445395 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15091ms
+oMay/Acc: NAN.DC.09493776 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15056ms
+oMay/Acc: dc_6825266 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15150ms
+oMay/Acc: dc_4255113 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15021ms
+oMay/Acc: dc_4051525 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15195ms
+oMay/Acc: NAN.DC.5794243 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15079ms
+oMay/Acc: NAN.DC.4622767 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15196ms
+oMay/Acc: dc_8740738 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15181ms
+oMay/Acc: dc_8957425 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15062ms
+oMay/Acc: dc_3142784 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15191ms
+oMay/Acc: NAN.DC.69233942 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15121ms
+oMay/Acc: dc_2201090 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15197ms
+oMay/Acc: dc_8083690 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15117ms
+oMay/Acc: NAN.DC.8083690 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15180ms
+oMay/Acc: NAN.DC.5545333_2 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15205ms
+oMay/Acc: dc_7185338 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15002ms
+oMay/Acc: dc_5304720 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15177ms
+oMay/Acc: NAN.DC.5304720 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15127ms
+oMay/Acc: NAN.DC.3661658 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15047ms
+oMay/Acc: NAN.DC.5698924 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15079ms
+oMay/Acc: NAN.DC.8668232 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15195ms
+oMay/Acc: dc_7863769 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15137ms
+oMay/Acc: dc_5512650 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15133ms
+oMay/Acc: NAN.DC.5512650 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15212ms
+oMay/Acc: NAN.DC.8815275 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15132ms
+oMay/Acc: NAN.DC.8815275 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! oMay/Acc: NAN.DC.3329132 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15170ms
+oMay/Acc: NAN.DC.56511931 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15112ms
+oMay/Acc: dc_8027453 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15169ms
+oMay/Acc: NAN.DC.9430555F | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15076ms
+oMay/Acc: dc_1114856 | Lỗi: Waiting until element is visible
+Wait timed out after 10088ms
+oMay/Acc: dc_4065221 | Lỗi: Waiting until element is visible
+Wait timed out after 10165ms
+oMay/Acc: dc_8054422 | Lỗi: Waiting until element is visible
+Wait timed out after 10113ms
+oMay/Acc: NAN.DC.1678679 | Lỗi: Waiting until element is visible
+Wait timed out after 10061ms
+oMay/Acc: dc_6608423 | Lỗi: Waiting until element is visible
+Wait timed out after 10009ms
+oMay/Acc: NAN.DC.6798495 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15036ms
+oMay/Acc: NAN.DC.9741381 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_7689887 | Lỗi: Waiting until element is visible
+Wait timed out after 10053ms
+oMay/Acc: dc_83402992 | Lỗi: Waiting until element is visible
+Wait timed out after 10210ms
+oMay/Acc: NAN.DC.5899616 | Lỗi: Waiting until element is visible
+Wait timed out after 10198ms
+oMay/Acc: dc_5475234 | Lỗi: Waiting until element is visible
+Wait timed out after 10093ms
+oMay/Acc: NAN.DC.3198379 | Lỗi: Waiting until element is visible
+Wait timed out after 10114ms
+oMay/Acc: dc_9793666 | Lỗi: Waiting until element is visible
+Wait timed out after 10035ms
+oMay/Acc: dc_9793666 | Lỗi: element click intercepted: Element <span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="select2-data-8-sxtu" style="width: 399.5px;">...</span> is not clickable at point (343, 381). Other element would receive the click: <div id="__BVID__68" role="dialog" aria-describedby="__BVID__68___BV_modal_body_" class="modal fade" aria-hidden="true" style="display: block; padding-left: 24px;">...</div>
+  (Session info: MicrosoftEdge=147.0.3912.98)
+oMay/Acc: NAN.DC.5017883 | Lỗi: element click intercepted: Element <span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="select2-data-8-f7pe" style="width: 399.5px;">...</span> is not clickable at point (343, 381). Other element would receive the click: <div id="__BVID__68" role="dialog" aria-describedby="__BVID__68___BV_modal_body_" class="modal fade" aria-hidden="true" style="display: block; padding-left: 24px;">...</div>
+  (Session info: MicrosoftEdge=147.0.3912.98)
+oMay/Acc: dc_74050082 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15070ms
+oMay/Acc: dc_6032998 | Lỗi: Waiting until element is visible
+Wait timed out after 10080ms
+oMay/Acc: dc_6032998 | Lỗi: Waiting until element is visible
+Wait timed out after 10128ms
+oMay/Acc: NAN.DC.6032998 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15105ms
+oMay/Acc: NAN.DC.6032998 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15070ms
+oMay/Acc: dc.7793089 | Lỗi: element click intercepted: Element <span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="select2-data-8-pmce" style="width: 399.5px;">...</span> is not clickable at point (343, 381). Other element would receive the click: <div id="__BVID__68" role="dialog" aria-describedby="__BVID__68___BV_modal_body_" class="modal fade" aria-hidden="true" style="display: block; padding-left: 24px;">...</div>
+  (Session info: MicrosoftEdge=147.0.3912.98)
+oMay/Acc: NAN.DC.1770599 | Lỗi: Waiting until element is visible
+Wait timed out after 10122ms
+oMay/Acc: dc_2164573 | Lỗi: Waiting until element is visible
+Wait timed out after 10133ms
+oMay/Acc: NAN.DC.2164573 | Lỗi: Waiting until element is visible
+Wait timed out after 10015ms
+oMay/Acc: dc_6110501 | Lỗi: Waiting until element is visible
+Wait timed out after 10220ms
+oMay/Acc: dc_6110501 | Lỗi: Waiting until element is visible
+Wait timed out after 10151ms
+oMay/Acc: dc_8549392 | Lỗi: element click intercepted: Element <span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="select2-data-8-51vq" style="width: 399.5px;">...</span> is not clickable at point (343, 381). Other element would receive the click: <div id="__BVID__68" role="dialog" aria-describedby="__BVID__68___BV_modal_body_" class="modal fade" aria-hidden="true" style="display: block; padding-left: 24px;">...</div>
+  (Session info: MicrosoftEdge=147.0.3912.98)
+oMay/Acc: dc_8549392 | Lỗi: Waiting until element is visible
+Wait timed out after 10172ms
+oMay/Acc: dc_7097232 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15055ms
+oMay/Acc: NAN.DC.7097232 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15201ms
+oMay/Acc: NAN.DC.87772645 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15202ms
+oMay/Acc: dc_5027111 | Lỗi: Waiting for element to be located By(css selector, .select2-results__option)
+Wait timed out after 20074ms
+oMay/Acc: dc_6233855 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15007ms
+oMay/Acc: NAN.DC.6233855 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15117ms
+oMay/Acc: NAN.DC.2888583 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15179ms
+oMay/Acc: NAN.DC.1112029 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15182ms
+oMay/Acc: dc_6373568 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15006ms
+oMay/Acc: dc_7264830 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15099ms
+oMay/Acc: NAN.DC.3819323 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15050ms
+oMay/Acc: dc_4119608 | Lỗi: Waiting until element is visible
+Wait timed out after 10088ms
+oMay/Acc: dc_9150440 | Lỗi: Waiting until element is visible
+Wait timed out after 10141ms
+oMay/Acc: dc_9150440 | Lỗi: Waiting until element is visible
+Wait timed out after 10090ms
+oMay/Acc: NAN.DC.9150440 | Lỗi: Waiting until element is visible
+Wait timed out after 10056ms
+oMay/Acc: NAN.DC.068491 | Lỗi: Waiting until element is visible
+Wait timed out after 10089ms
+oMay/Acc: NAN.DC.6367121_2 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 15216ms
+oMay/Acc: NAN.DC.6367121_2 | Lỗi: Waiting until element is visible
+Wait timed out after 10004ms
+oMay/Acc: NAN.DC.4251345 | Lỗi: Waiting until element is visible
+Wait timed out after 10171ms
+oMay/Acc: dc_4152345 | Lỗi: Waiting until element is visible
+Wait timed out after 10214ms
+oMay/Acc: dc_2008788 | Lỗi: Waiting until element is visible
+Wait timed out after 10068ms
+oMay/Acc: dc_2008788 | Lỗi: Waiting until element is visible
+Wait timed out after 10068ms
+oMay/Acc: NAN.DC.2008788 | Lỗi: Waiting until element is visible
+Wait timed out after 10068ms
+oMay/Acc: NAN.DC.2008788 | Lỗi: Waiting until element is visible
+Wait timed out after 10187ms

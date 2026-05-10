@@ -99,12 +99,11 @@ async function main() {
                 );
                 if (!isChecked) {
                     await browser.jsClick("input.check");
-                    await browser.sleep(1200);
                     console.log("[3] Đã tick Người giới thiệu, chờ popup...");
+                    await browser.sleep(800);
 
                     // ── Bước 4: Chờ popup "Chọn người giới thiệu" xuất hiện ──────────
                     await browser.waitForVisible(".popup-body.control-ngt", 10_000);
-                    await browser.sleep(300);
                     console.log("[4] Popup đã mở.");
 
                     // ── Bước 5: Click vào dòng chứa VNPT012132 trong bảng popup ──────
@@ -125,7 +124,7 @@ async function main() {
                 }
 
                 // ── Bước 7: Chọn Dịch vụ = "Băng rộng cố định" ───────────────────
-                await browser.sleep(2000);
+                await browser.sleep(1000);
                 await browser.selectSelect2(1, CONFIG.dichVu);
                 try {
                     await browser.waitForHidden(".loading, .spinner, .blockUI, .e-spinner-pane", 8_000);
@@ -377,7 +376,6 @@ async function main() {
                     } catch (e) {
                         console.warn(`[Row 1] D: Không tìm thấy checkbox Loại hóa đơn: ${e.message}`);
                     }
-                    await browser.sleep(600); // nghỉ sau bước D trước khi Thanh toán
 
                     // E: Click "Thanh toán" trong toolbar của popup → dialog xác nhận
                     const ttPopupBtn = await browser.driver.wait(
@@ -389,8 +387,9 @@ async function main() {
                         10_000
                     );
                     await browser.driver.executeScript("arguments[0].click();", ttPopupBtn);
-                    await browser.sleep(800);
+                    await browser.sleep(2000);
                     console.log(`[Row 1] E: Đã click Thanh toán trong popup.`);
+                    await browser.sleep(2000);
 
                     // F: Xác nhận dialog "Bạn xác nhận thanh toán hợp đồng này?" → click "Thanh toán" (btn-primary)
                     const confirmBtn1 = await browser.driver.wait(
@@ -402,12 +401,12 @@ async function main() {
                     );
                     await browser.driver.executeScript("arguments[0].scrollIntoView({block:'center'});", confirmBtn1);
                     await browser.driver.executeScript("arguments[0].click();", confirmBtn1);
-                    await browser.sleep(1200);
                     console.log(`[Row 1] F: Xác nhận dialog lần 1.`);
 
                     // G: Xác nhận dialog lần 2 ("Bạn có muốn thanh toán cho các thuê bao này không?")
                     // Dùng JS tìm đúng modal chứa text "thuê bao" để tránh click nhầm dialog 1 đang fade
                     try {
+                        await browser.sleep(1000);
                         await browser.driver.wait(async () => {
                             return await browser.driver.executeScript(`
                             const modals = document.querySelectorAll('.modal.show');
@@ -420,7 +419,6 @@ async function main() {
                             return false;
                         `);
                         }, 10_000, "Timeout chờ dialog 2 thuê bao");
-                        await browser.sleep(1500);
                         console.log(`[Row 1] G: Xác nhận dialog lần 2.`);
                     } catch {
                         await browser.sleep(1000);
@@ -457,8 +455,8 @@ async function main() {
                         }
                         return true;
                     }, 15_000, "Timeout chờ form Thanh toán đóng");
-                    await browser.sleep(2000);
                     console.log(`[Row 1] H2: Form Thanh toán đã đóng, về trang Hủy đặt cọc.`);
+                    await browser.sleep(3000);
 
                     // I: Click "Hoàn thiện" trong toolbar ul.list của trang chính
                     const hoanThienBtn = await browser.driver.wait(
@@ -470,7 +468,6 @@ async function main() {
                         10_000
                     );
                     await browser.driver.executeScript("arguments[0].click();", hoanThienBtn);
-                    await browser.sleep(7000);
                     console.log(`[Row 1] I: Đã click Hoàn thiện.`);
 
                     // J: Xác nhận dialog "Thông báo" sau Hoàn thiện → click "Đồng ý" / btn-primary
