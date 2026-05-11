@@ -29,12 +29,17 @@ async function ensureLoggedIn(browser) {
     const url = await browser.currentUrl();
     if (url.includes("/auth/login")) {
         console.log("[SESSION] Phát hiện hết session → đăng nhập lại...");
-        await browser.loginManual({
-            url: CONFIG.url,
-            username: CONFIG.username,
-            password: CONFIG.password,
-        });
-        console.log("[SESSION] Đăng nhập lại thành công:", await browser.currentUrl());
+        try {
+            await browser.loginManual({
+                url: CONFIG.url,
+                username: CONFIG.username,
+                password: CONFIG.password,
+            });
+            console.log("[SESSION] Đăng nhập lại thành công:", await browser.currentUrl());
+        } catch (err) {
+            console.error("[SESSION] Timeout chờ OTP — tắt chương trình.");
+            process.exit(1);
+        }
     }
 }
 
