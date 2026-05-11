@@ -434,7 +434,7 @@ async function main() {
                         10_000, "Timeout chờ nút X đóng form Thanh toán"
                     );
                     await browser.driver.executeScript("arguments[0].click();", closeBtn);
-                    await browser.sleep(3000);
+                    await browser.sleep(800);
                     console.log(`[Row 1] H: Đã click X đóng form Thanh toán.`);
 
                     // H2: Chờ form Thanh toán ẩn đi (có thể vẫn còn trong DOM nhưng hidden)
@@ -455,7 +455,7 @@ async function main() {
                         return true;
                     }, 15_000, "Timeout chờ form Thanh toán đóng");
                     console.log(`[Row 1] H2: Form Thanh toán đã đóng, về trang Hủy đặt cọc.`);
-                    await browser.sleep(1000);
+                    await browser.sleep(3000);
 
                     // I: Click "Hoàn thiện" trong toolbar ul.list của trang chính
                     const hoanThienBtn = await browser.driver.wait(
@@ -464,11 +464,12 @@ async function main() {
                             `//ul[contains(@class,'list')]//a[@href='javascript:void(0)']` +
                             `[normalize-space(.)='Hoàn thiện' or contains(normalize-space(.),'Hoàn thiện')]`
                         )),
-                        20_000
+                        25_000
                     );
+                    await browser.sleep(2000);
                     await browser.driver.executeScript("arguments[0].click();", hoanThienBtn);
                     console.log(`[Row 1] I: Đã click Hoàn thiện.`);
-
+                    await browser.sleep(2000);
                     // J: Xác nhận dialog "Thông báo" sau Hoàn thiện → click "Đồng ý" / btn-primary
                     // Có thể xuất hiện: "Không tìm thấy thông tin hóa đơn..." hoặc dialog xác nhận khác
                     // footer.modal-footer (thẻ <footer>, không phải <div>)
@@ -482,11 +483,11 @@ async function main() {
                                 }
                                 return false;
                             `);
-                    }, 15_000, "Timeout chờ dialog Thông báo sau Hoàn thiện");
-                    await browser.sleep(600);
+                    }, 30_000, "Timeout chờ dialog Thông báo sau Hoàn thiện");
                     console.log(`[Row 1] J: Đã click Đồng ý. ✓ Hoàn thành hàng 1.`);
-                    await browser.driver.navigate().refresh();
                     await browser.sleep(2000);
+                    await browser.driver.navigate().refresh();
+                    await browser.sleep(3000);
                     console.log(`[Row 1] J: Đã F5 refresh trang.`);
 
                 } catch (rowErr) {
