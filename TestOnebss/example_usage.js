@@ -100,7 +100,6 @@ async function main() {
                 if (!isChecked) {
                     await browser.jsClick("input.check");
                     console.log("[3] Đã tick Người giới thiệu, chờ popup...");
-                    await browser.sleep(800);
 
                     // ── Bước 4: Chờ popup "Chọn người giới thiệu" xuất hiện ──────────
                     await browser.waitForVisible(".popup-body.control-ngt", 10_000);
@@ -384,7 +383,7 @@ async function main() {
                             `//ul[contains(@class,'list')]//a[@href='javascript:void(0)']` +
                             `[normalize-space(.)='Thanh toán' or contains(normalize-space(.),'Thanh toán')]`
                         )),
-                        10_000
+                        15_000
                     );
                     await browser.driver.executeScript("arguments[0].click();", ttPopupBtn);
                     await browser.sleep(2000);
@@ -397,7 +396,7 @@ async function main() {
                             `//div[contains(@class,'modal') and contains(@class,'show')]` +
                             `//*[contains(@class,'modal-footer')]//button[contains(@class,'btn-primary')]`
                         )),
-                        10_000
+                        15_000
                     );
                     await browser.driver.executeScript("arguments[0].scrollIntoView({block:'center'});", confirmBtn1);
                     await browser.driver.executeScript("arguments[0].click();", confirmBtn1);
@@ -435,7 +434,7 @@ async function main() {
                         10_000, "Timeout chờ nút X đóng form Thanh toán"
                     );
                     await browser.driver.executeScript("arguments[0].click();", closeBtn);
-                    await browser.sleep(300);
+                    await browser.sleep(3000);
                     console.log(`[Row 1] H: Đã click X đóng form Thanh toán.`);
 
                     // H2: Chờ form Thanh toán ẩn đi (có thể vẫn còn trong DOM nhưng hidden)
@@ -456,7 +455,7 @@ async function main() {
                         return true;
                     }, 15_000, "Timeout chờ form Thanh toán đóng");
                     console.log(`[Row 1] H2: Form Thanh toán đã đóng, về trang Hủy đặt cọc.`);
-                    await browser.sleep(3000);
+                    await browser.sleep(1000);
 
                     // I: Click "Hoàn thiện" trong toolbar ul.list của trang chính
                     const hoanThienBtn = await browser.driver.wait(
@@ -465,7 +464,7 @@ async function main() {
                             `//ul[contains(@class,'list')]//a[@href='javascript:void(0)']` +
                             `[normalize-space(.)='Hoàn thiện' or contains(normalize-space(.),'Hoàn thiện')]`
                         )),
-                        10_000
+                        20_000
                     );
                     await browser.driver.executeScript("arguments[0].click();", hoanThienBtn);
                     console.log(`[Row 1] I: Đã click Hoàn thiện.`);
