@@ -15,10 +15,15 @@ import { appendFileSync, readFileSync } from "fs";
 import { By, createBrowser, Key, until } from "./selenium_tool.js";
 
 const ERROR_LOG = "./error_rows.txt";
+const ERROR_THUEBAO_LOG = "./error_thuebao.txt";
 function logErrorRow(soMayAcc, reason) {
     const line = `oMay/Acc: ${soMayAcc} | Lỗi: ${reason}\n`;
     appendFileSync(ERROR_LOG, line, "utf8");
     console.error(`[ERROR_LOG] ${line.trim()}`);
+    if (reason && reason.includes("Thuê bao")) {
+        appendFileSync(ERROR_THUEBAO_LOG, `${soMayAcc}\n`, "utf8");
+        console.error(`[ERROR_THUEBAO] ${soMayAcc}`);
+    }
 }
 
 /**

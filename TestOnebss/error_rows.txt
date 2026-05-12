@@ -140,3 +140,257 @@ oMay/Acc: NANTVHUONG1528 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thi
 Wait timed out after 30026ms
 oMay/Acc: NANTVOANH183 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
 Wait timed out after 30200ms
+oMay/Acc: NANTVTHONG954 | Lỗi: element click intercepted: Element <span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="select2-data-8-hl4y" style="width: 399.5px;">...</span> is not clickable at point (343, 381). Other element would receive the click: <div id="__BVID__68" role="dialog" aria-describedby="__BVID__68___BV_modal_body_" class="modal fade" aria-hidden="true" style="display: block; padding-left: 24px;">...</div>
+  (Session info: MicrosoftEdge=148.0.3967.54)
+oMay/Acc: trang1890362_qc | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30213ms
+oMay/Acc: NAN_HOTAN | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30078ms
+oMay/Acc: NAN.TV.1230048 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30167ms
+oMay/Acc: NAN.TV.1230537 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30065ms
+oMay/Acc: NAN.TV.1234757 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30117ms
+oMay/Acc: NAN.TV.1237843 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30156ms
+oMay/Acc: NAN.TV.1239275 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30019ms
+oMay/Acc: hn1239592 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30131ms
+oMay/Acc: NAN.TV.1239624 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30045ms
+oMay/Acc: NAN.TV.0904061789 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30214ms
+oMay/Acc: NAN.TV.NGUYENQUE | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30045ms
+oMay/Acc: NAN.T4361.TVNL | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30065ms
+oMay/Acc: NAN.TV.1836173 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.TV.1836173 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.TV.1231251 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30017ms
+oMay/Acc: anhphap384026.fb.nan | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN3729187MTV | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN3729187MTV | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_TATCHIENMTV | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_PHUONGTHAOAPP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30241ms
+oMay/Acc: dnnguyenx6cs.fb.nan | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_DNNGUYENMTV | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: thinhung3.fb.nan | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.THINHUNGAPP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30168ms
+oMay/Acc: as.vanmen.fb.nan | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dangdungcsfb.nan | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_DDUNGAPP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30198ms
+oMay/Acc: NAN_VANHAI2APP | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NANTV3HUNGTD | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NANTVLYTHUYVH | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30177ms
+oMay/Acc: NANTVHOHUYBT | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30071ms
+oMay/Acc: NANTVLAMTB | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NANTVNGOCTN | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NANTV2TUANBK | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30124ms
+oMay/Acc: NANTVHOAIK1_CO | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30099ms
+oMay/Acc: NANTVHUONGTN | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20175ms
+oMay/Acc: thicuctk_co | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NANVANPHUTT | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.1603286 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_1777151 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30116ms
+oMay/Acc: NAN.DC.1673748 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.8824471 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.5737139 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30105ms
+oMay/Acc: NAN.DC.9901551 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.4957057 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.1679301 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.7030123 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30085ms
+oMay/Acc: NAN.DC.7003418 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30141ms
+oMay/Acc: NAN.DC.3602586 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30142ms
+oMay/Acc: NAN.DC.5611361 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.5735667 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30135ms
+oMay/Acc: NAN.DC.CONGDINH1 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30157ms
+oMay/Acc: dc_67393266 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_79492472 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.4551137 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30210ms
+oMay/Acc: dc_4551137 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30198ms
+oMay/Acc: NAN.DC.9345325 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_5415048 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.5415048 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.4352580 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.8368456 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.9126268 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30047ms
+oMay/Acc: NAN.DC.7968082 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.1697865 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30147ms
+oMay/Acc: NAN.DC.2570154 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30103ms
+oMay/Acc: NAN.DC.8763657 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.6088854 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30066ms
+oMay/Acc: dc_88252779 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_8087118 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_3914545 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.4740965 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.9021003 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_3810476 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30025ms
+oMay/Acc: dc_2677891 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.8913002 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30126ms
+oMay/Acc: NAN.DC.8913002 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.3520388 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30205ms
+oMay/Acc: NAN.DC.8014567 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_9632980 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30128ms
+oMay/Acc: NAN.DC.9632980 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.62550449 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_6740228 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_7611545 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30217ms
+oMay/Acc: NAN.DC.3939330 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.9698569 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: dc_6884867 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.DC.78242580 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30063ms
+oMay/Acc: dc_3933564 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30117ms
+oMay/Acc: dc_5961123 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30116ms
+oMay/Acc: dc_6082216 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30160ms
+oMay/Acc: NAN.DC.5848360 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30027ms
+oMay/Acc: NAN.DC.8203344 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30105ms
+oMay/Acc: NAN_THITIEN23 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30152ms
+oMay/Acc: NANTV.HUNG8 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_DANGHAI_2 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30007ms
+oMay/Acc: NAN_KIEUOANH_28 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_TATHOANG1 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_LOANDL | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30028ms
+oMay/Acc: NAN_VANLONG68 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_VANDUNG_22 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30024ms
+oMay/Acc: NAN_TATLUONGDL | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_MINHTHUY_2 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30200ms
+oMay/Acc: nguyenthiloan3.fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30050ms
+oMay/Acc: NAN_DINHTHANG_2677 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30206ms
+oMay/Acc: dl_phuc.fb | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_PHUC_DL | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: thitrang138007.fb.nan | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN.CONGHOI.APP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30034ms
+oMay/Acc: NAN_BAMINH_2 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_THILAN_236 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30081ms
+oMay/Acc: NAN_THIHOA_70 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_DINHHOAN_25 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30221ms
+oMay/Acc: thenam1361.fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30120ms
+oMay/Acc: vanbun126293.fb.nan | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30058ms
+oMay/Acc: NAN_XUANTHAN.APP | Lỗi: Timeout chờ dữ liệu form Thanh toán load
+Wait timed out after 20237ms
+oMay/Acc: NAN_VANLINH1.APP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30047ms
+oMay/Acc: NAN_THILIEU123 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30170ms
+oMay/Acc: NANTV.CUONGDX | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30051ms
+oMay/Acc: NAN.TV.HX1766959 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30088ms
+oMay/Acc: NAN_VIETHONG12 | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NANTV.123332 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30057ms
+oMay/Acc: NAN_BAMUI | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30131ms
+oMay/Acc: dinhcong207954.fb.nan | Lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+oMay/Acc: NAN_BAPHUC.APP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30196ms
+oMay/Acc: NANTV.THIHIEN01 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30123ms
+oMay/Acc: NAN_CONGTUNG_2 | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
+Wait timed out after 30058ms
