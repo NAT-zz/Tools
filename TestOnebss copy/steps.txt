@@ -1,0 +1,82 @@
+Quy trình tự động hóa: Hủy đặt cọc (OneBSS)
+URL: https://onebss.vnpt.vn/#/ext-hopdong/huy-dat-coc
+Chạy: node example_usage.js
+======================================================
+
+Bước 1 – Đăng nhập
+  - Tài khoản: anhtuancntt.nan
+  - Mật khẩu: H#x8x3at
+  - Script tự điền tài khoản/mật khẩu, bạn tự nhập OTP trên trình duyệt
+
+Bước 2 – Vào trang Hủy đặt cọc
+  - Điều hướng đến https://onebss.vnpt.vn/#/ext-hopdong/huy-dat-coc
+
+Bước 3 – Tích chọn Người giới thiệu
+  - Tick vào checkbox "Người giới thiệu" (input.check)
+
+Bước 4 – Chờ popup danh sách nhân viên
+  - Popup có class ".popup-body.control-ngt" xuất hiện
+
+Bước 5 – Chọn nhân viên trong popup
+  - Tìm dòng có Mã nhân viên: VNPT012132
+  - Click vào dòng đó để chọn
+
+Bước 6 – Xác nhận
+  - Click nút "Đồng ý"/"Chấp nhận" trong popup
+
+Bước 7 – Chọn Dịch vụ
+  - Giá trị: Băng rộng cố định
+  - Ô dropdown select2 thứ 2 (index 1) trên form
+
+Bước 8 – Nhập Số máy/Acc
+  - Giá trị: NAN.TV.1836173
+  - Ô input thứ 2 có class "form-control highlight" (index 1; index 0 là Mã giao dịch)
+  - Nhấn Enter để tìm kiếm, chờ danh sách đặt cọc bên phải load và có hàng được chọn
+
+Bước 9 – Chọn Ngày thoái trả
+  - Giá trị: 01/05/2026
+  - Ô datepicker id="ej2-datepicker_2"
+  - Đặt sau khi nhập Số máy/Acc vì Angular reset giá trị khi danh sách load
+
+Bước 10 – Xử lý từng hàng trong Danh sách đặt cọc (lặp qua tất cả hàng)
+  - Xác định bảng qua cột "Tháng BĐDC", lặp từ hàng đầu đến hàng cuối
+  - Hàng đầu tiên luôn được chọn sẵn; sau mỗi lần xử lý xong sẽ tự chuyển sang hàng tiếp theo
+  - Mỗi hàng thực hiện các bước B–J; nếu lỗi thì log + chụp screenshot và bỏ qua, tiếp hàng tiếp theo
+
+  B. Click "Ghi lại" (nút toolbar)
+     - Chờ 3000ms để trang xử lý
+     - Nếu toast chứa "thành công" → tiếp tục
+     - Nếu có thông báo lỗi (class error/danger) → log lỗi, chụp screenshot, bỏ qua hàng
+
+  C. Click "Thanh toán" (nút toolbar)
+     - Chờ form Thanh toán HĐ load: đợi label "Loại hóa đơn" xuất hiện (tối đa 15s)
+     - Chờ thêm 800ms để Angular render xong
+
+  D. Bỏ tick "Loại hóa đơn"
+     - Tìm checkbox theo label "Loại hóa đơn"
+     - Nếu đang tick → click bỏ tick; nếu đã bỏ sẵn → bỏ qua
+
+  E. Click "Thanh toán" lần 1
+     - Dialog hiện: "Bạn xác nhận thanh toán hợp đồng này" hoặc tương tự
+     - Chờ 1500ms
+
+  F. Click "Thanh toán" lần 2
+     - Dialog hiện: "Bạn có muốn thanh toán cho các thuê bao này không?"
+     - Chờ 1500ms
+
+  G. Click "Thanh toán" lần 3
+     - Xác nhận lần cuối
+     - Chờ 3000ms để thanh toán xử lý xong
+
+  H. Đóng form Thanh toán
+     - Kiểm tra có thông báo "Thanh toán thành công" không (log cảnh báo nếu không thấy)
+     - Click nút X (close) để đóng form Thanh toán
+     - Chờ 800ms
+
+  I. Click "Hoàn thiện" (nút toolbar)
+     - Dialog hiện: "Không tìm thấy thông tin hóa đơn điện tử cũ để điều chỉnh. Bạn có muốn tiếp tục?"
+     - Chờ 1500ms
+
+  J. Click "Xác nhận" trong dialog
+     - Kết thúc xử lý hàng
+     - Chờ 1500ms rồi chuyển sang hàng tiếp theo
