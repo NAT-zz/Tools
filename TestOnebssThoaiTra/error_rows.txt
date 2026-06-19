@@ -1,0 +1,22 @@
+2026-05-14T03:57:05.088Z | Mã GD: NAN-TT/02863083 | Lỗi: element click intercepted: Element <input type="text" class="form-control highlight"> is not clickable at point (320, 224). Other element would receive the click: <div class="overlay-common show">...</div>
+  (Session info: MicrosoftEdge=148.0.3967.54
+2026-05-14T04:00:16.707Z | Mã GD: NAN-TT/02870300 | Lỗi: Không tìm thấy hợp đồng để thoái trả! 
+  ×
+2026-05-14T04:02:30.218Z | Mã GD: NAN-TT/02868641 | Lỗi: element click intercepted: Element <input type="text" class="form-control highlight"> is not clickable at point (320, 224). Other element would receive the click: <div class="overlay-common show">...</div>
+  (Session info: MicrosoftEdge=148.0.3967.54
+2026-05-14T04:02:41.048Z | Mã GD: NAN-TT/02868740 | Lỗi: element click intercepted: Element <input type="text" class="form-control highlight"> is not clickable at point (320, 224). Other element would receive the click: <div class="overlay-common show">...</div>
+  (Session info: MicrosoftEdge=148.0.3967.54
+2026-05-14T04:03:32.026Z | Mã GD: NAN-TT/02869705 | Lỗi: Không tìm thấy hợp đồng để thoái trả! 
+  ×
+2026-05-14T04:07:46.363Z | Mã GD: NAN-TT/02870731 | Lỗi: element click intercepted: Element <input type="text" class="form-control highlight"> is not clickable at point (320, 224). Other element would receive the click: <div class="overlay-common show">...</div>
+  (Session info: MicrosoftEdge=148.0.3967.54
+2026-05-14T04:14:38.729Z | Mã GD: NAN-TT/02871502 | Lỗi: element click intercepted: Element <input type="text" class="form-control highlight"> is not clickable at point (320, 224). Other element would receive the click: <div class="overlay-common show">...</div>
+  (Session info: MicrosoftEdge=148.0.3967.54
+2026-05-14T04:14:41.988Z | Mã GD: NAN-TT/02863814 | Lỗi: element click intercepted: Element <input type="text" class="form-control highlight"> is not clickable at point (320, 224). Other element would receive the click: <div class="overlay-common show">...</div>
+  (Session info: MicrosoftEdge=148.0.3967.54
+2026-05-14T04:14:45.281Z | Mã GD: NAN-TT/02871516 | Lỗi: element click intercepted: Element <input type="text" class="form-control highlight"> is not clickable at point (320, 224). Other element would receive the click: <div class="overlay-common show">...</div>
+  (Session info: MicrosoftEdge=148.0.3967.54
+2026-05-14T04:20:15.267Z | Mã GD: NAN-TT/02871854 | Lỗi: element click intercepted: Element <input type="text" class="form-control highlight"> is not clickable at point (320, 224). Other element would receive the click: <div class="overlay-common show">...</div>
+  (Session info: MicrosoftEdge=148.0.3967.54
+2026-05-14T04:22:37.976Z | Mã GD: NAN-TT/02872469 | Lỗi: element click intercepted: Element <input type="text" class="form-control highlight"> is not clickable at point (320, 224). Other element would receive the click: <div class="overlay-common show">...</div>
+  (Session info: MicrosoftEdge=148.0.3967.54
