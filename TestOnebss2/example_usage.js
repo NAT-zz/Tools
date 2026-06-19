@@ -37,7 +37,7 @@ const CONFIG = {
     password: "H#x8x3at",
     targetUrl: "https://onebss.vnpt.vn/#/ext-hopdong/huy-dat-coc",
     dichVu: "Băng rộng cố định",
-    ngayThoai: "01/05/2026",
+    ngayThoai: "01/06/2026",
     maNhanVien: "VNPT012132",
     // Bắt đầu từ số máy này (bỏ qua tất cả trước nó). Để null để chạy từ đầu.
     startFrom: null,
