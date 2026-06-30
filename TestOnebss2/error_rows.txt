@@ -70,3 +70,342 @@ oMay/Acc: NAN_DANGCHINHAPP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn t
 Wait timed out after 30211ms
 oMay/Acc: NAN_THICHAUAP | Lỗi: Timeout chờ dialog Thông báo sau Hoàn thiện
 Wait timed out after 30036ms
+2026-06-19T03:29:25.785Z | Số máy/Acc: NAN_DINHDUAAPP | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T03:34:56.939Z | Số máy/Acc: NAN_LETHANH_APP | Lỗi: Wait timed out after 30092ms
+2026-06-19T03:38:48.511Z | Số máy/Acc: vanhoa1994.fb.nan | Lỗi: Wait timed out after 30119ms
+2026-06-19T03:44:11.850Z | Số máy/Acc: thiquynh79.fb.nan | Lỗi: Wait timed out after 30117ms
+2026-06-19T03:45:22.607Z | Số máy/Acc: nhatlinhls.fb.nan | Lỗi: Wait timed out after 30089ms
+2026-06-19T03:47:27.832Z | Số máy/Acc: kimchi99.fb.nan | Lỗi: Wait timed out after 30097ms
+2026-06-19T03:50:24.099Z | Số máy/Acc: NAN_VANTIEN92 | Lỗi: Wait timed out after 30162ms
+2026-06-19T03:54:12.615Z | Số máy/Acc: NANTVTHINH2 | Lỗi: Wait timed out after 30151ms
+2026-06-19T03:57:54.023Z | Số máy/Acc: NANTVMANHHA | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T04:01:21.488Z | Số máy/Acc: NANTVNGANLX | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T04:04:49.104Z | Số máy/Acc: NANTVBACHLK | Lỗi: Wait timed out after 30073ms
+2026-06-19T04:10:45.547Z | Số máy/Acc: vankhaibt_co | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T04:11:56.622Z | Số máy/Acc: NANTVKHAIBT | Lỗi: Wait timed out after 30074ms
+2026-06-19T04:12:13.258Z | Số máy/Acc: NANTVANHTX | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T04:17:17.548Z | Số máy/Acc: NAN.DC.5487617 | Lỗi: Wait timed out after 30062ms
+2026-06-19T04:26:09.182Z | Số máy/Acc: NAN.DC.1629391 | Lỗi: Wait timed out after 30060ms
+2026-06-19T04:31:27.230Z | Số máy/Acc: NAN.DC.1777468 | Lỗi: Wait timed out after 30029ms
+2026-06-19T04:34:35.044Z | Số máy/Acc: NAN.DC.1673879 | Lỗi: Wait timed out after 30207ms
+2026-06-19T04:35:44.784Z | Số máy/Acc: NAN.DC.5093717 | Lỗi: Wait timed out after 30138ms
+2026-06-19T04:37:16.864Z | Số máy/Acc: dc_1602924 | Lỗi: Wait timed out after 30140ms
+2026-06-19T04:40:19.688Z | Số máy/Acc: NAN.DC.1777403 | Lỗi: Wait timed out after 30125ms
+2026-06-19T04:42:12.938Z | Số máy/Acc: NAN.DC.5147912 | Lỗi: Wait timed out after 30161ms
+2026-06-19T04:42:29.239Z | Số máy/Acc: NAN.DC.5147912 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T04:43:40.739Z | Số máy/Acc: NAN.DC.2036979 | Lỗi: Wait timed out after 30251ms
+2026-06-19T04:45:37.668Z | Số máy/Acc: NAN.DC.8824471 | Lỗi: Wait timed out after 30070ms
+2026-06-19T04:49:05.943Z | Số máy/Acc: dc_5146435 | Lỗi: Wait timed out after 30211ms
+2026-06-19T04:55:52.966Z | Số máy/Acc: NAN.DC.2058187 | Lỗi: Wait timed out after 30028ms
+2026-06-19T04:58:00.027Z | Số máy/Acc: NAN.DC.7887536_2 | Lỗi: Wait timed out after 30142ms
+2026-06-19T04:59:21.524Z | Số máy/Acc: NAN.DC.3450794 | Lỗi: Wait timed out after 30201ms
+2026-06-19T05:02:16.112Z | Số máy/Acc: NAN.DC.4602598 | Lỗi: Wait timed out after 30043ms
+2026-06-19T05:05:49.266Z | Số máy/Acc: NAN.DC.6344364 | Lỗi: Wait timed out after 30062ms
+2026-06-19T05:06:05.119Z | Số máy/Acc: NAN.DC.6344364 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T05:08:23.482Z | Số máy/Acc: NAN.DC.5425553 | Lỗi: Wait timed out after 30114ms
+2026-06-19T05:16:06.938Z | Số máy/Acc: NAN.DC.9410376 | Lỗi: Wait timed out after 30104ms
+2026-06-19T05:18:39.066Z | Số máy/Acc: NAN.DC.77922676 | Lỗi: Wait timed out after 30205ms
+2026-06-19T05:22:47.283Z | Số máy/Acc: NAN.DC.93271244 | Lỗi: Wait timed out after 30154ms
+2026-06-19T05:27:37.431Z | Số máy/Acc: NAN.DC.4297059 | Lỗi: Wait timed out after 30040ms
+2026-06-19T05:30:07.350Z | Số máy/Acc: NAN.DC.6908245 | Lỗi: Wait timed out after 30048ms
+2026-06-19T05:35:52.142Z | Số máy/Acc: NAN.DC.CONGDINH1 | Lỗi: Wait timed out after 30107ms
+2026-06-19T05:37:13.219Z | Số máy/Acc: NAN.DC.CONGDINH1 | Lỗi: Wait timed out after 30183ms
+2026-06-19T05:37:28.966Z | Số máy/Acc: NAN.DC.8672722 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T05:39:01.998Z | Số máy/Acc: NAN_DC_9254014 | Lỗi: Wait timed out after 30189ms
+2026-06-19T05:45:29.147Z | Số máy/Acc: dc_5678456 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T05:55:03.821Z | Số máy/Acc: dc_3933564 | Lỗi: Wait timed out after 30167ms
+2026-06-19T06:11:56.917Z | Số máy/Acc: NAN.DC.5973821 | Lỗi: Wait timed out after 30065ms
+2026-06-19T06:13:52.177Z | Số máy/Acc: NAN.DC.4445395 | Lỗi: Wait timed out after 30046ms
+2026-06-19T06:15:15.741Z | Số máy/Acc: NAN.DC.679909 | Lỗi: Wait timed out after 30112ms
+2026-06-19T06:18:30.916Z | Số máy/Acc: dc_4051525 | Lỗi: Wait timed out after 30035ms
+2026-06-19T06:25:39.899Z | Số máy/Acc: NAN.DC.7591874 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T06:27:41.127Z | Số máy/Acc: NAN.DC.8559012 | Lỗi: Wait timed out after 30112ms
+2026-06-19T06:36:23.614Z | Số máy/Acc: NAN.DC.8916789 | Lỗi: Wait timed out after 30025ms
+2026-06-19T06:38:19.363Z | Số máy/Acc: NAN.DC.1112029 | Lỗi: Wait timed out after 30126ms
+2026-06-19T06:39:41.190Z | Số máy/Acc: dc_6373568 | Lỗi: Wait timed out after 30189ms
+2026-06-19T06:40:08.478Z | Số máy/Acc: dc_7264830 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T06:46:11.746Z | Số máy/Acc: NAN.DC.8801850 | Lỗi: Wait timed out after 30133ms
+2026-06-19T06:48:53.070Z | Số máy/Acc: NAN.DC.9150440 | Lỗi: Wait timed out after 30060ms
+2026-06-19T06:49:53.828Z | Số máy/Acc: NAN.DC.6367121_2 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T06:58:09.130Z | Số máy/Acc: dc_6122333 | Lỗi: Wait timed out after 30116ms
+2026-06-19T07:04:02.558Z | Số máy/Acc: NAN.DC.2440479 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T07:11:48.258Z | Số máy/Acc: NAN.DC.3822678 | Lỗi: Wait timed out after 30008ms
+2026-06-19T07:12:57.940Z | Số máy/Acc: NAN.DC.4389006 | Lỗi: Wait timed out after 30102ms
+2026-06-19T07:15:25.877Z | Số máy/Acc: NAN.DC.4759061 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T07:16:59.348Z | Số máy/Acc: dc_8733291 | Lỗi: Wait timed out after 30191ms
+2026-06-19T07:18:15.645Z | Số máy/Acc: NAN.DC.6568418 | Lỗi: Wait timed out after 30128ms
+2026-06-19T07:21:55.218Z | Số máy/Acc: NAN.DC.76764257 | Lỗi: Wait timed out after 30213ms
+2026-06-19T07:23:20.416Z | Số máy/Acc: NAN.DC.76764257.2 | Lỗi: Wait timed out after 30028ms
+2026-06-19T07:24:59.203Z | Số máy/Acc: NAN.DC.2182660 | Lỗi: Wait timed out after 30072ms
+2026-06-19T07:26:23.741Z | Số máy/Acc: dc_2182660 | Lỗi: Wait timed out after 30124ms
+2026-06-19T07:28:07.848Z | Số máy/Acc: NAN.DC.3970037 | Lỗi: Wait timed out after 30082ms
+2026-06-19T07:29:29.429Z | Số máy/Acc: dc_666637 | Lỗi: Wait timed out after 30201ms
+2026-06-19T07:31:26.983Z | Số máy/Acc: NAN.DC.6531799 | Lỗi: Wait timed out after 30162ms
+2026-06-19T07:32:48.166Z | Số máy/Acc: dc_8846060 | Lỗi: Wait timed out after 30140ms
+2026-06-19T07:35:25.416Z | Số máy/Acc: dc_7874518 | Lỗi: Wait timed out after 30080ms
+2026-06-19T07:39:26.871Z | Số máy/Acc: NAN.DC.8457286 | Lỗi: Wait timed out after 30205ms
+2026-06-19T07:44:01.912Z | Số máy/Acc: dc_9632535 | Lỗi: Wait timed out after 30151ms
+2026-06-19T07:47:54.387Z | Số máy/Acc: NAN.DC.5084869_NAN | Lỗi: Wait timed out after 30034ms
+2026-06-19T07:50:14.411Z | Số máy/Acc: NAN.DC.2047284 | Lỗi: Wait timed out after 30107ms
+2026-06-19T07:58:32.788Z | Số máy/Acc: dc_45000877 | Lỗi: Wait timed out after 30104ms
+2026-06-19T08:00:45.175Z | Số máy/Acc: NAN.DC.7238255 | Lỗi: Wait timed out after 30124ms
+2026-06-19T08:02:07.679Z | Số máy/Acc: NAN.DC.7238255 | Lỗi: Wait timed out after 30180ms
+2026-06-19T08:03:51.634Z | Số máy/Acc: dc_2706789 | Lỗi: Wait timed out after 30122ms
+2026-06-19T08:07:26.197Z | Số máy/Acc: dc_8082770 | Lỗi: Wait timed out after 30167ms
+2026-06-19T08:10:30.292Z | Số máy/Acc: dc_7885632 | Lỗi: Wait timed out after 30039ms
+2026-06-19T08:11:55.724Z | Số máy/Acc: NAN.DC.3422934 | Lỗi: Wait timed out after 30527ms
+2026-06-19T08:13:52.948Z | Số máy/Acc: dc_3877797 | Lỗi: Wait timed out after 30179ms
+2026-06-19T08:15:07.467Z | Số máy/Acc: NAN.DC.3877797 | Lỗi: Wait timed out after 30132ms
+2026-06-19T08:22:24.737Z | Số máy/Acc: dc_9009446 | Lỗi: Wait timed out after 30146ms
+2026-06-19T08:25:43.163Z | Số máy/Acc: NAN.DC.8826181 | Lỗi: Wait timed out after 30118ms
+2026-06-19T08:31:48.494Z | Số máy/Acc: dc_5233473 | Lỗi: Wait timed out after 30040ms
+2026-06-19T08:33:00.310Z | Số máy/Acc: NAN.DC.5233473 | Lỗi: Wait timed out after 30107ms
+2026-06-19T08:34:09.695Z | Số máy/Acc: dc_5475880 | Lỗi: Wait timed out after 30043ms
+2026-06-19T08:37:24.525Z | Số máy/Acc: NAN.DC.7814969 | Lỗi: Wait timed out after 30256ms
+2026-06-19T08:42:21.767Z | Số máy/Acc: dc_4462690 | Lỗi: Wait timed out after 30090ms
+2026-06-19T08:43:44.932Z | Số máy/Acc: NAN.DC.68274999 | Lỗi: Wait timed out after 30135ms
+2026-06-19T08:46:28.406Z | Số máy/Acc: dc_3542120 | Lỗi: Wait timed out after 30104ms
+2026-06-19T08:48:39.975Z | Số máy/Acc: dc_6822777 | Lỗi: Wait timed out after 30128ms
+2026-06-19T08:51:14.693Z | Số máy/Acc: dc_4934387 | Lỗi: Wait timed out after 30181ms
+2026-06-19T08:52:24.260Z | Số máy/Acc: dc_86394349 | Lỗi: Wait timed out after 30050ms
+2026-06-19T08:55:50.105Z | Số máy/Acc: dc_6927048 | Lỗi: Wait timed out after 30011ms
+2026-06-19T09:03:09.111Z | Số máy/Acc: NAN.DC.588005 | Lỗi: Wait timed out after 30057ms
+2026-06-19T09:05:57.590Z | Số máy/Acc: dc_9618876 | Lỗi: Wait timed out after 30059ms
+2026-06-19T09:08:29.350Z | Số máy/Acc: NAN.DC.6340512 | Lỗi: Wait timed out after 30160ms
+2026-06-19T09:09:55.495Z | Số máy/Acc: NAN.DC.123456 | Lỗi: Wait timed out after 30109ms
+2026-06-19T09:13:03.907Z | Số máy/Acc: NAN.DC.85143882 | Lỗi: Wait timed out after 30045ms
+2026-06-19T09:14:12.312Z | Số máy/Acc: NAN.DC.3086946 | Lỗi: Wait timed out after 30035ms
+2026-06-19T09:15:33.787Z | Số máy/Acc: NAN.DC.9138595 | Lỗi: Wait timed out after 30166ms
+2026-06-19T09:21:14.875Z | Số máy/Acc: NAN.DC.4643636 | Lỗi: Wait timed out after 30161ms
+2026-06-19T09:24:07.742Z | Số máy/Acc: NAN.DC.6754088 | Lỗi: Wait timed out after 30025ms
+2026-06-19T09:30:41.427Z | Số máy/Acc: dc_5336108 | Lỗi: Wait timed out after 30330ms
+2026-06-19T09:31:51.358Z | Số máy/Acc: dc_2967078 | Lỗi: Wait timed out after 30122ms
+2026-06-19T09:37:33.506Z | Số máy/Acc: NAN.DC.59941945 | Lỗi: Wait timed out after 30127ms
+2026-06-19T09:43:03.232Z | Số máy/Acc: NAN.DC.7483101 | Lỗi: Wait timed out after 30001ms
+2026-06-19T09:44:38.629Z | Số máy/Acc: dc_16124999 | Lỗi: Wait timed out after 30119ms
+2026-06-19T09:51:50.411Z | Số máy/Acc: NAN_THITIEN23 | Lỗi: Wait timed out after 30007ms
+2026-06-19T09:53:01.753Z | Số máy/Acc: NAN_VANHUNG7777 | Lỗi: Wait timed out after 30208ms
+2026-06-19T09:54:34.769Z | Số máy/Acc: NANTV1695848 | Lỗi: Wait timed out after 30170ms
+2026-06-19T10:04:31.552Z | Số máy/Acc: NAN_VIETHOAN_2 | Lỗi: Wait timed out after 30023ms
+2026-06-19T10:08:00.776Z | Số máy/Acc: NAN_KIEUHUONG222 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T10:09:56.132Z | Số máy/Acc: NAN_PHICAT333 | Lỗi: Wait timed out after 30179ms
+2026-06-19T10:12:01.103Z | Số máy/Acc: NAN_TATHOANG1 | Lỗi: Wait timed out after 30000ms
+2026-06-19T10:13:10.286Z | Số máy/Acc: NAN_THIHOA_2100 | Lỗi: Wait timed out after 30020ms
+2026-06-19T10:16:48.486Z | Số máy/Acc: NAN_DOANKIEU68 | Lỗi: Wait timed out after 30014ms
+2026-06-19T10:20:07.388Z | Số máy/Acc: xuandiep10.fb.nan34 | Lỗi: Wait timed out after 30022ms
+2026-06-19T10:21:28.218Z | Số máy/Acc: NAN_XUANDIEP799 | Lỗi: Wait timed out after 30179ms
+2026-06-19T10:22:49.980Z | Số máy/Acc: NAN_THITHUY999999 | Lỗi: Wait timed out after 30005ms
+2026-06-19T10:25:21.472Z | Số máy/Acc: NAN_VANTUYEN_2789 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T10:27:17.837Z | Số máy/Acc: NAN_HUUAN_278 | Lỗi: Wait timed out after 30062ms
+2026-06-19T10:28:28.074Z | Số máy/Acc: NAN_VANAN_2566 | Lỗi: Wait timed out after 30096ms
+2026-06-19T10:29:49.095Z | Số máy/Acc: NAN_DOANTHANGG222 | Lỗi: Wait timed out after 30042ms
+2026-06-19T10:32:42.519Z | Số máy/Acc: thitrang666.fb.nan | Lỗi: Wait timed out after 30073ms
+2026-06-19T10:36:45.938Z | Số máy/Acc: thithuydl.fb | Lỗi: Wait timed out after 30135ms
+2026-06-19T10:38:07.916Z | Số máy/Acc: NANTV.THUY9 | Lỗi: Wait timed out after 30138ms
+2026-06-19T10:39:29.426Z | Số máy/Acc: NAN_VANDUNG_32 | Lỗi: Wait timed out after 30105ms
+2026-06-19T10:41:03.785Z | Số máy/Acc: NAN_TRONGTAN543 | Lỗi: Wait timed out after 30055ms
+2026-06-19T10:43:02.724Z | Số máy/Acc: lethuy1dl.fb | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T10:52:21.440Z | Số máy/Acc: NAN_VANHUY888 | Lỗi: Wait timed out after 30194ms
+2026-06-19T10:56:39.798Z | Số máy/Acc: NAN_NHTUYET25 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T11:00:21.610Z | Số máy/Acc: NAN_THITHAO_22233 | Lỗi: Wait timed out after 30160ms
+2026-06-19T11:03:26.203Z | Số máy/Acc: NAN_THILIEN_2222 | Lỗi: Wait timed out after 30155ms
+2026-06-19T11:04:35.993Z | Số máy/Acc: thilien3128523.fb.nan | Lỗi: Wait timed out after 30042ms
+2026-06-19T11:06:08.772Z | Số máy/Acc: NAN_XUANTHANH79 | Lỗi: Wait timed out after 30164ms
+2026-06-19T11:09:33.485Z | Số máy/Acc: NAN_VANDUNG_2789 | Lỗi: Wait timed out after 30071ms
+2026-06-19T11:11:29.153Z | Số máy/Acc: NAN_HUYENLINH67 | Lỗi: Wait timed out after 30147ms
+2026-06-19T11:12:39.155Z | Số máy/Acc: thithanh3418796.fb.nan | Lỗi: Wait timed out after 30077ms
+2026-06-19T11:13:50.429Z | Số máy/Acc: NAN_THITHANH_2689 | Lỗi: Wait timed out after 30102ms
+2026-06-19T11:16:20.764Z | Số máy/Acc: NAN_THIHANH_29 | Lỗi: Wait timed out after 30063ms
+2026-06-19T11:17:44.107Z | Số máy/Acc: NAN_BAHAI77 | Lỗi: Wait timed out after 30105ms
+2026-06-19T11:19:19.129Z | Số máy/Acc: NAN_DINHPHUONG_235 | Lỗi: Wait timed out after 30132ms
+2026-06-19T11:19:38.294Z | Số máy/Acc: NAN_VANDUNG_2785 | Lỗi: [Select2] Không tìm thấy option: "Băng rộng cố định"
+2026-06-19T11:20:59.089Z | Số máy/Acc: NAN_NGOCHONG_278 | Lỗi: Wait timed out after 30081ms
+2026-06-19T11:22:20.483Z | Số máy/Acc: NAN_SYKHANH543 | Lỗi: Wait timed out after 30137ms
+2026-06-19T11:26:33.159Z | Số máy/Acc: NAN_DINHCHI_222 | Lỗi: Wait timed out after 30148ms
+2026-06-19T11:28:40.616Z | Số máy/Acc: NAN_THANHNHAN_278 | Lỗi: Wait timed out after 30066ms
+2026-06-19T11:30:20.186Z | Số máy/Acc: dan4470242.fb.nan | Lỗi: Wait timed out after 30044ms
+2026-06-19T11:33:11.340Z | Số máy/Acc: NAN_THITHAO_123 | Lỗi: Wait timed out after 30071ms
+2026-06-19T11:34:21.572Z | Số máy/Acc: vantrung4647846.fb.nan | Lỗi: Wait timed out after 30146ms
+2026-06-19T11:36:27.453Z | Số máy/Acc: NAN_THITHUY788 | Lỗi: Wait timed out after 30200ms
+2026-06-19T11:37:37.327Z | Số máy/Acc: NAN_VANMINH_2688 | Lỗi: Wait timed out after 30196ms
+2026-06-19T11:43:17.850Z | Số máy/Acc: vanphon2626.fb.nan | Lỗi: Wait timed out after 30123ms
+2026-06-19T11:44:27.906Z | Số máy/Acc: NAN_VANPHON2626 | Lỗi: Wait timed out after 30182ms
+2026-06-19T11:45:05.582Z | Số máy/Acc: NAN_TRONGMAU678 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T11:46:27.426Z | Số máy/Acc: vanchien4881.fb.nan | Lỗi: Wait timed out after 30066ms
+2026-06-19T11:47:36.889Z | Số máy/Acc: NAN_THIHUONG_454 | Lỗi: Wait timed out after 30127ms
+2026-06-19T11:49:35.269Z | Số máy/Acc: NAN_THILIEU990 | Lỗi: Wait timed out after 30087ms
+2026-06-19T11:56:04.484Z | Số máy/Acc: xuanchung4950147.fb.nan | Lỗi: Wait timed out after 30198ms
+2026-06-19T11:57:14.465Z | Số máy/Acc: NAN_THILUAN578 | Lỗi: Wait timed out after 30004ms
+2026-06-19T11:58:35.191Z | Số máy/Acc: NAN_HUUHOP888 | Lỗi: Wait timed out after 30101ms
+2026-06-19T12:00:42.422Z | Số máy/Acc: NAN_BAKHUONG | Lỗi: Wait timed out after 30168ms
+2026-06-19T12:02:49.626Z | Số máy/Acc: vanlong5079.fb.nan | Lỗi: Wait timed out after 30209ms
+2026-06-19T12:04:10.823Z | Số máy/Acc: NAN_THIHANH_2021 | Lỗi: Wait timed out after 30054ms
+2026-06-19T12:07:35.985Z | Số máy/Acc: NAN_TRONGCANH949 | Lỗi: Wait timed out after 30092ms
+2026-06-19T12:08:46.519Z | Số máy/Acc: NAN_VANKHUONG999 | Lỗi: Wait timed out after 30162ms
+2026-06-19T12:10:18.758Z | Số máy/Acc: NAN_THITUYET_2689 | Lỗi: Wait timed out after 30045ms
+2026-06-19T12:11:51.328Z | Số máy/Acc: tattuan516.fb.nan | Lỗi: Wait timed out after 30137ms
+2026-06-19T12:14:32.381Z | Số máy/Acc: thiloan5180149.fb.nan | Lỗi: Wait timed out after 30178ms
+2026-06-19T12:16:38.234Z | Số máy/Acc: NAN_THITHAO_2727 | Lỗi: Wait timed out after 30088ms
+2026-06-19T12:17:47.968Z | Số máy/Acc: NAN_THITHANH173 | Lỗi: Wait timed out after 30177ms
+2026-06-19T12:19:19.534Z | Số máy/Acc: vannga5099977.fb.nan | Lỗi: Wait timed out after 30170ms
+2026-06-19T12:20:40.922Z | Số máy/Acc: dauthanh5254.fb.nan | Lỗi: Wait timed out after 30196ms
+2026-06-19T12:24:31.055Z | Số máy/Acc: NAN_VANLUONG_222 | Lỗi: Wait timed out after 30031ms
+2026-06-19T12:25:41.583Z | Số máy/Acc: NAN_DINHAN777 | Lỗi: Wait timed out after 30074ms
+2026-06-19T12:29:28.628Z | Số máy/Acc: tatloc541.fb.nan | Lỗi: Wait timed out after 30044ms
+2026-06-19T12:31:24.528Z | Số máy/Acc: thaihung5525.fb.nan | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay thế/thu hồi/cấp bổ sung vật tư chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T12:32:48.744Z | Số máy/Acc: NAN_QUANGDOAN666 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-19T12:33:58.758Z | Số máy/Acc: thihuong5572136.fb.nan | Lỗi: Wait timed out after 30075ms
+2026-06-19T12:36:44.585Z | Số máy/Acc: thidungdl.fb.nan | Lỗi: Wait timed out after 30048ms
+2026-06-19T12:38:39.139Z | Số máy/Acc: NAN_VANSY_2788 | Lỗi: Wait timed out after 30092ms
+2026-06-19T12:39:49.450Z | Số máy/Acc: NAN_TRUONG_2 | Lỗi: Wait timed out after 30088ms
+2026-06-19T12:40:59.411Z | Số máy/Acc: thihuong5714.fb.nan | Lỗi: Wait timed out after 30080ms
+2026-06-19T12:42:53.432Z | Số máy/Acc: NAN_VANLONG388 | Lỗi: Wait timed out after 30026ms
+2026-06-19T12:51:26.072Z | Số máy/Acc: NAN_KHACNHATTBS777 | Lỗi: Wait timed out after 30057ms
+2026-06-19T12:52:36.107Z | Số máy/Acc: thihoa604.fb.nan | Lỗi: Wait timed out after 30013ms
+2026-06-19T12:56:01.266Z | Số máy/Acc: NAN_THITAM578 | Lỗi: Wait timed out after 30203ms
+2026-06-19T12:57:11.112Z | Số máy/Acc: vanmanh555.fb.nan | Lỗi: Wait timed out after 30133ms
+2026-06-19T12:58:21.896Z | Số máy/Acc: dinhnam6241.fb.nan | Lỗi: Wait timed out after 30085ms
+2026-06-19T13:00:17.740Z | Số máy/Acc: NAN_VANVINH_2576 | Lỗi: Wait timed out after 30067ms
+2026-06-19T13:02:58.446Z | Số máy/Acc: khoai1122.fb | Lỗi: Wait timed out after 30206ms
+2026-06-19T13:04:53.840Z | Số máy/Acc: NAN_THITHANH_685 | Lỗi: Wait timed out after 30099ms
+2026-06-19T13:06:08.055Z | Số máy/Acc: tatmuoi6360.fb.nan | Lỗi: Wait timed out after 30198ms
+2026-06-19T13:07:18.415Z | Số máy/Acc: NAN_TATMUOI578 | Lỗi: Wait timed out after 30041ms
+2026-06-19T13:11:28.267Z | Số máy/Acc: NAN_HONGVIET99 | Lỗi: Wait timed out after 30216ms
+2026-06-19T13:14:53.566Z | Số máy/Acc: minhlan999.fb.nan | Lỗi: Wait timed out after 30166ms
+2026-06-19T13:16:03.637Z | Số máy/Acc: NAN_MINHLAN999 | Lỗi: Wait timed out after 30023ms
+2026-06-19T13:17:58.901Z | Số máy/Acc: qtrung999.fb.nan | Lỗi: Wait timed out after 30163ms
+2026-06-19T13:19:08.636Z | Số máy/Acc: NAN_QUANGTRUNG999 | Lỗi: Wait timed out after 30163ms
+2026-06-19T13:21:50.290Z | Số máy/Acc: NAN_VANTRONG577 | Lỗi: Wait timed out after 30140ms
+2026-06-19T13:23:00.527Z | Số máy/Acc: NAN_THIDUONG_DL | Lỗi: Wait timed out after 30001ms
+2026-06-19T13:24:11.543Z | Số máy/Acc: NAN_THECONG_2689 | Lỗi: Wait timed out after 30081ms
+2026-06-19T13:25:21.982Z | Số máy/Acc: NAN_THITHUY_6666 | Lỗi: Wait timed out after 30051ms
+2026-06-19T13:28:56.750Z | Số máy/Acc: NAN_VANTHO58997 | Lỗi: Wait timed out after 30023ms
+2026-06-19T13:31:39.574Z | Số máy/Acc: canhdanh6688.fb.nan | Lỗi: Wait timed out after 30120ms
+2026-06-19T13:37:21.757Z | Số máy/Acc: NAN_THIHUONG668899 | Lỗi: Wait timed out after 30250ms
+2026-06-19T13:38:31.422Z | Số máy/Acc: dangchuong688.fb.nan | Lỗi: Wait timed out after 30014ms
+2026-06-19T13:39:41.363Z | Số máy/Acc: NAN_DANHHUNG688688 | Lỗi: Wait timed out after 30059ms
+2026-06-19T13:46:07.232Z | Số máy/Acc: thisam688.fb.nan | Lỗi: Wait timed out after 30145ms
+2026-06-19T13:49:02.285Z | Số máy/Acc: dinhhan732.fb.nan | Lỗi: Wait timed out after 30197ms
+2026-06-19T13:51:43.661Z | Số máy/Acc: NAN_THIPHUONG1996 | Lỗi: Wait timed out after 30088ms
+2026-06-19T13:52:54.758Z | Số máy/Acc: NAN_XUANSON657 | Lỗi: Wait timed out after 30113ms
+2026-06-19T13:54:04.777Z | Số máy/Acc: xuanson7138.fb.nan | Lỗi: Wait timed out after 30136ms
+2026-06-19T13:55:59.193Z | Số máy/Acc: NAN_QUOCDOAN467 | Lỗi: Wait timed out after 30106ms
+2026-06-19T13:57:11.738Z | Số máy/Acc: thilan7164.fb.nan | Lỗi: Wait timed out after 30142ms
+2026-06-19T14:01:16.332Z | Số máy/Acc: babay93620219.fb.nan | Lỗi: Wait timed out after 20118ms
+2026-06-20T00:33:50.587Z | Số máy/Acc: NAN_HONG3THONG | Lỗi: Wait timed out after 30175ms
+2026-06-20T00:35:54.094Z | Số máy/Acc: NAN_THISEN_2528 | Lỗi: Wait timed out after 30025ms
+2026-06-20T00:37:04.471Z | Số máy/Acc: dangminh93633.fb.nan | Lỗi: Wait timed out after 30006ms
+2026-06-20T00:40:32.606Z | Số máy/Acc: NAN_VANNAM1986 | Lỗi: Wait timed out after 30037ms
+2026-06-20T00:41:49.615Z | Số máy/Acc: NAN_THIHUE848 | Lỗi: Wait timed out after 30137ms
+2026-06-20T00:53:35.450Z | Số máy/Acc: NAN_TUANANHMAI | Lỗi: Wait timed out after 20176ms
+2026-06-20T00:59:42.791Z | Số máy/Acc: NANTV074452 | Lỗi: Wait timed out after 30110ms
+2026-06-20T01:02:13.660Z | Số máy/Acc: NANTV621632 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay thế/thu hồi/cấp bổ sung vật tư chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-20T01:17:55.090Z | Số máy/Acc: NANTV_THIHAOHL | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Tạo mới gói đa dịch vụ chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-20T01:20:12.124Z | Số máy/Acc: yxy_ksn | Lỗi: Wait timed out after 30129ms
+2026-06-20T01:46:37.555Z | Số máy/Acc: thileknn_ksn | Lỗi: Wait timed out after 20150ms
+2026-06-20T02:02:27.056Z | Số máy/Acc: NAN_KHANHHA.APP | Lỗi: Wait timed out after 30184ms
+2026-06-20T02:12:49.760Z | Số máy/Acc: NAN_TTHAM.APP | Lỗi: Wait timed out after 30062ms
+2026-06-20T02:20:22.365Z | Số máy/Acc: NAN_VANTY.APP | Lỗi: Wait timed out after 30137ms
+2026-06-20T02:22:09.649Z | Số máy/Acc: NAN_VANTHA.APP | Lỗi: Ghi lại lỗi: unique constraint (CSS.PK_GIAOPHIEU) violated 
+  ×
+2026-06-20T02:25:09.543Z | Số máy/Acc: NAN_QUANGNH.244 | Lỗi: Wait timed out after 20301ms
+2026-06-20T02:33:57.474Z | Số máy/Acc: NAN_QLOC.APP | Lỗi: Wait timed out after 20180ms
+2026-06-20T02:39:03.087Z | Số máy/Acc: NANTV.VANVINH66 | Lỗi: Wait timed out after 30010ms
+2026-06-20T02:41:59.164Z | Số máy/Acc: NANTV.LICHNT12.APP | Lỗi: Wait timed out after 20269ms
+2026-06-20T02:59:01.144Z | Số máy/Acc: NAN_VANLINH8.APP | Lỗi: Wait timed out after 30023ms
+2026-06-20T03:10:52.931Z | Số máy/Acc: NAN_THITHUY_9.APP | Lỗi: Wait timed out after 30180ms
+2026-06-20T03:12:40.846Z | Số máy/Acc: vanhung28.fb.nan | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-20T03:13:50.661Z | Số máy/Acc: thilieu59.fb.nan | Lỗi: Wait timed out after 30034ms
+2026-06-20T03:22:54.350Z | Số máy/Acc: NAN_THILAN2.APP | Lỗi: Wait timed out after 30119ms
+2026-06-20T03:26:31.100Z | Số máy/Acc: quangdinh29.fb.nan | Lỗi: Wait timed out after 30018ms
+2026-06-20T03:33:08.049Z | Số máy/Acc: vanhai31.fb.nan | Lỗi: Wait timed out after 30184ms
+2026-06-20T03:37:05.480Z | Số máy/Acc: hn1260362 | Lỗi: Wait timed out after 30185ms
+2026-06-20T03:41:15.911Z | Số máy/Acc: NAN_THITHANH12.APP | Lỗi: Wait timed out after 30195ms
+2026-06-20T03:47:40.010Z | Số máy/Acc: NAN_TUNG4.APP | Lỗi: Wait timed out after 30198ms
+2026-06-20T03:50:32.676Z | Số máy/Acc: NAN_THILOI77.APP | Lỗi: Wait timed out after 30199ms
+2026-06-20T04:03:13.066Z | Số máy/Acc: thithao443.fb.nan | Lỗi: Wait timed out after 30088ms
+2026-06-20T04:16:03.435Z | Số máy/Acc: NAN_THIHOP.APP | Lỗi: Wait timed out after 30209ms
+2026-06-20T04:17:18.271Z | Số máy/Acc: NAN_SYHOP.APP | Lỗi: Wait timed out after 30108ms
+2026-06-20T04:24:09.970Z | Số máy/Acc: vanhoang457.fb.nan | Lỗi: Wait timed out after 20104ms
+2026-06-20T04:26:04.739Z | Số máy/Acc: thiluyen82.fb.nan | Lỗi: Wait timed out after 30065ms
+2026-06-20T04:28:07.278Z | Số máy/Acc: NAN_THANH4.APP | Lỗi: Wait timed out after 30193ms
+2026-06-20T04:29:34.244Z | Số máy/Acc: NAN_THINGA_8 | Lỗi: Wait timed out after 20276ms
+2026-06-20T04:31:45.323Z | Số máy/Acc: NAN_HOA.APP | Lỗi: Wait timed out after 20095ms
+2026-06-20T04:32:26.675Z | Số máy/Acc: NANTV.HUONG2 | Lỗi: Wait timed out after 20301ms
+2026-06-20T04:41:11.663Z | Số máy/Acc: NAN.TV.1359999 | Lỗi: Wait timed out after 30092ms
+2026-06-20T04:49:36.186Z | Số máy/Acc: NAN_THIHAI2.APP | Lỗi: Wait timed out after 30164ms
+2026-06-20T04:52:22.424Z | Số máy/Acc: NAN_THITHUY.STB | Lỗi: Wait timed out after 30168ms
+2026-06-20T04:56:36.170Z | Số máy/Acc: NAN_THUHA123.APP | Lỗi: Wait timed out after 30151ms
+2026-06-20T04:59:17.341Z | Số máy/Acc: NAN_VANMUNG | Lỗi: Wait timed out after 30196ms
+2026-06-20T05:01:10.255Z | Số máy/Acc: lecuong525.fb.nan | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay thế/thu hồi/cấp bổ sung vật tư chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-20T05:08:27.994Z | Số máy/Acc: minhhao349.fb.nan | Lỗi: Wait timed out after 30180ms
+2026-06-20T05:21:02.683Z | Số máy/Acc: NAN_THITHANH.455 | Lỗi: Wait timed out after 20022ms
+2026-06-20T05:25:12.328Z | Số máy/Acc: thihue447.fb.nan | Lỗi: Wait timed out after 30013ms
+2026-06-20T05:26:22.289Z | Số máy/Acc: NAN_THIHUE34.APP | Lỗi: Wait timed out after 30087ms
+2026-06-20T05:31:16.685Z | Số máy/Acc: NAN_THITHUY79.APP | Lỗi: Wait timed out after 30168ms
+2026-06-20T05:33:03.001Z | Số máy/Acc: duchai822.fb.nan | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-20T05:37:13.099Z | Số máy/Acc: NAN_TRUONG71.APP | Lỗi: Wait timed out after 30079ms
+2026-06-20T05:48:52.227Z | Số máy/Acc: NAN.P2.TVNL | Lỗi: Wait timed out after 30106ms
+2026-06-20T06:03:16.935Z | Số máy/Acc: NAN_THIHIEN_7 | Lỗi: Wait timed out after 30020ms
+2026-06-20T06:05:57.073Z | Số máy/Acc: NAN_THIGIAO_2 | Lỗi: Wait timed out after 30129ms
+2026-06-20T06:35:46.793Z | Số máy/Acc: NAN.D2.TVNL | Lỗi: Wait timed out after 30156ms
+2026-06-20T06:51:47.190Z | Số máy/Acc: NAN_DINHTUYEN_2 | Lỗi: Wait timed out after 30097ms
+2026-06-20T06:55:59.472Z | Số máy/Acc: nl_0963780115 | Lỗi: Wait timed out after 30161ms
+2026-06-20T07:17:19.812Z | Số máy/Acc: NAN_THITAM1987 | Lỗi: Wait timed out after 30197ms
+2026-06-20T07:22:14.455Z | Số máy/Acc: nl_0355040432 | Lỗi: Wait timed out after 30004ms
+2026-06-20T07:24:22.951Z | Số máy/Acc: NAN.H8785.TVNL | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-20T07:28:08.582Z | Số máy/Acc: nl_thien1989 | Lỗi: Wait timed out after 30070ms
+2026-06-20T07:29:22.592Z | Số máy/Acc: NAN_THHO | Lỗi: Wait timed out after 30053ms
+2026-06-20T07:33:46.346Z | Số máy/Acc: becl98 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-20T07:34:56.038Z | Số máy/Acc: NAN_THINGUYET_9 | Lỗi: Wait timed out after 30080ms
+2026-06-20T07:36:05.266Z | Số máy/Acc: NAN_VANTHANH_10 | Lỗi: Wait timed out after 30071ms
+2026-06-20T07:45:26.209Z | Số máy/Acc: NAN.APP34234.TVNL | Lỗi: Wait timed out after 30062ms
+2026-06-20T07:46:38.636Z | Số máy/Acc: NAN.APP1169.TVNL | Lỗi: Wait timed out after 30032ms
+2026-06-20T07:54:09.578Z | Số máy/Acc: nl_0338960525 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-20T07:55:20.298Z | Số máy/Acc: NAN.APP66773.TVNL | Lỗi: Wait timed out after 30034ms
+2026-06-20T07:57:16.191Z | Số máy/Acc: NAN.APP44433.TVNL | Lỗi: Wait timed out after 30021ms
+2026-06-20T08:02:14.659Z | Số máy/Acc: NAN.APP0545.TVNL | Lỗi: Wait timed out after 20036ms
+2026-06-20T08:05:03.576Z | Số máy/Acc: NAN.APP4090.TVNL | Lỗi: Wait timed out after 30731ms
+2026-06-20T08:15:58.989Z | Số máy/Acc: NAN.APP86688.TVNL | Lỗi: Wait timed out after 30081ms
+2026-06-20T08:19:47.129Z | Số máy/Acc: nl_tao365 | Lỗi: Wait timed out after 30005ms
+2026-06-20T08:35:25.030Z | Số máy/Acc: nl_cachly02 | Lỗi: Wait timed out after 20251ms
+2026-06-20T08:52:27.930Z | Số máy/Acc: nl_cachly02 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-20T08:52:44.021Z | Số máy/Acc: nl_cachly01 | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
+2026-06-20T08:55:27.621Z | Số máy/Acc: NAN.S1976.TVNL | Lỗi: Wait timed out after 30088ms
+2026-06-20T08:58:32.470Z | Số máy/Acc: nl_nguyen256 | Lỗi: Wait timed out after 30096ms
+2026-06-20T09:00:35.481Z | Số máy/Acc: hn1337777 | Lỗi: Wait timed out after 30082ms
+2026-06-20T09:07:05.868Z | Số máy/Acc: nl_linh600 | Lỗi: Wait timed out after 30103ms
+2026-06-20T09:08:17.299Z | Số máy/Acc: NAN.L9208.TVNL | Lỗi: Wait timed out after 30080ms
+2026-06-20T09:19:07.142Z | Số máy/Acc: thiquynhcualo | Lỗi: Ghi lại lỗi: Thuê bao đã được có hợp đồng: Thay đổi đặt cọc chưa hoàn thiện, bạn không thể lập hợp đồng! 
+  ×
