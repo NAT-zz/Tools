@@ -1,13 +1,4 @@
-﻿vantrong725387.fb.nan
-vancan790914.fb.nan
-thisau840487.fb.nan
-thiduong926648.fb.nan
-duchai937561.fb.nan
-vanhuydl.fb.nan
-thioanh1088469.fb.nan
-dinhtuan1236308.fb.nan
-danhluu1287797.fb.nan
-thidan2358189.fb.nan
+﻿thidan2358189.fb.nan
 bichhuong222.fb.nan
 babien2660116.fb.nan
 thanhtam3703778.fb.nan

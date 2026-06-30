@@ -757,3 +757,5 @@ Wait timed out after 30016ms
 2026-06-20T09:14:57.889Z | Số máy/Acc: tutrinh994.fb.nan | Lỗi: Wait timed out after 30155ms
 2026-06-20T09:15:39.181Z | Số máy/Acc: thiphuong7407.fb.nan | Lỗi: Wait timed out after 20223ms
 2026-06-20T09:17:54.735Z | Số máy/Acc: NAN_B656 | Lỗi: Wait timed out after 20477ms
+2026-06-30T11:01:39.224Z | Số máy/Acc: quynhngocnh.fb.nan | Lỗi: Wait timed out after 30214ms
+2026-06-30T11:02:51.436Z | Số máy/Acc: NAN_QUYNHNGOCNH | Lỗi: Wait timed out after 30017ms

@@ -1,9 +1,4 @@
-﻿nl_cuong5764
-NAN.APPH98.TVNL
-nl_tho1998
-NAN.APP2827.TVNL
-nl_lan1967
-NAN.L1964.TVNL
+﻿NAN.L1964.TVNL
 nl_linh55
 nl_hunghuy
 nl_huyen98
